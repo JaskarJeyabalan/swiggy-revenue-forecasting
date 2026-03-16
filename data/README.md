@@ -2,13 +2,14 @@
 
 The dataset used in this project is too large to store directly on GitHub.
 
-You can download the dataset here:
+Download dataset here:
 
-Dataset Download:
-https://drive.google.com/drive/folders/1BDziEOhigVYpBFDCtlZwkU5gMn-P99e_?usp=drive_link
+https://drive.google.com/drive/folders/1BDziEOhigVYpBFDCtlZwkU5gMn-P99e_
 
-After downloading, place the files in the following folders:
+After downloading place the files in the following folders:
 
 data/raw/
 data/processed/
 data/analytics/
+
+This dataset contains food delivery order data used for SQL modeling, Power BI dashboards, and revenue forecasting.
