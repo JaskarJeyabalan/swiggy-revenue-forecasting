@@ -82,13 +82,7 @@ After preparing the dataset, Power BI was used to create **interactive dashboard
 
 ## Business Overview
 
-![Image](https://media.licdn.com/dms/image/v2/D4D22AQFMkanhUyBbFQ/feedshare-shrink_800/B4DZhq2tmOHwAg-/0/1754139385040?e=2147483647\&t=kS5fgi6tETYzxzJINmd-fk2UQaEKvxCsT2-Ez5jUEyg\&v=beta)
-
-![Image](https://media.licdn.com/dms/image/v2/D4D22AQFKnquh8zIEkw/feedshare-shrink_800/B4DZg8d4rqGQAk-/0/1753361130501?e=2147483647\&t=MNYApxh4jUPcON6Ow3wf5qadxqx9ax3wF0dxMelpXhY\&v=beta)
-
-![Image](https://other-levels.com/cdn/shop/files/Restaurants-Sales-Analytics-Excel-Dashboard-Other-Levels-17244369.png?v=1759938831\&width=2688)
-
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/f/o/food_and_beverages_revenue_analysis_dashboard_for_marketing_activities_for_fast_food_slide01.jpg)
+![Image](images/business_overview.png)
 
 Key KPIs:
 
@@ -103,13 +97,7 @@ Key KPIs:
 
 ## Food & Cuisine Insights
 
-![Image](https://www.inetsoft.com/images/website/online-food-delivery.PNG)
-
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/f/o/food_delivery_restaurant_performance_tracking_dashboard_food_delivery_service_optimization_slide01.jpg)
-
-![Image](https://dataflip.co/cdn/shop/files/PowerBIDashboardTemplatesforFoodDeliveryServices_1024x1024.jpg?v=1761398698)
-
-![Image](https://user-images.githubusercontent.com/114581035/213843305-4f13141a-ddee-47e8-ae0a-6bd846e84ceb.png)
+![Image](images/food_cuisine_insights.png)
 
 Insights analyzed:
 
@@ -122,13 +110,7 @@ Insights analyzed:
 
 ## Geographic Performance
 
-![Image](https://media.licdn.com/dms/image/v2/D5622AQE1X0OGzT5-lg/feedshare-shrink_800/B56ZqQH_X7JsAk-/0/1763354606031?e=2147483647\&t=iLFl8EUpG77Sq0xMuO9MfS8Z_k3Fn5nsu7WMS98DsEo\&v=beta)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AGRKtcuVkQRdwb5tcdbw3xw.png)
-
-![Image](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F28025666%2F2ced102cc1b4500f6f3e52b271cd6bbf%2FOnline%20Sales%20Dashboard.PNG?alt=media\&generation=1757671974876569)
-
-![Image](https://media.licdn.com/dms/image/v2/D5622AQEuHDmIBmQpOQ/feedshare-shrink_800/B56ZfPS6uWHUAk-/0/1751529533312?e=2147483647\&t=EIMVdHCQeaGGGeqpNIC5TaRO3cnVQoTQqXmhsGgT8NA\&v=beta)
+![Image](images/geographic_performance.png)
 
 Geographic analysis includes:
 
@@ -140,13 +122,7 @@ Geographic analysis includes:
 
 ## Pricing & Spending Analysis
 
-![Image](https://user-images.githubusercontent.com/114581035/213843305-4f13141a-ddee-47e8-ae0a-6bd846e84ceb.png)
-
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/dashboard_to_track_sales_and_expenses_of_restaurant_online_promotion_plan_for_food_business_slide01.jpg)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AuQ8vYB6584p-O9i46eDuMA.png)
-
-![Image](https://repository-images.githubusercontent.com/591021797/3d25ddd6-0ef5-4df8-8168-4fc30b94bcd2)
+![Image](images/pricing_spending_analysis.png)
 
 Customer spending behavior analyzed by:
 
@@ -158,13 +134,7 @@ Customer spending behavior analyzed by:
 
 ## Restaurant Performance
 
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AuQ8vYB6584p-O9i46eDuMA.png)
-
-![Image](https://www.inetsoft.com/images/website/online-food-delivery.PNG)
-
-![Image](https://cdn.prod.website-files.com/62294553e9aeea20d15d7bc2/6798ab3ca1a6bbd3ca23212e_6798aa118ad1f36e1352a340_Staff%2520performance%2520dashbaord.webp)
-
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/dashboard_to_track_sales_and_expenses_of_restaurant_online_promotion_plan_for_food_business_slide01.jpg)
+![Image](images/restaurant_performance.png)
 
 Key insights include:
 
@@ -177,13 +147,7 @@ Key insights include:
 
 ## Week-Based Performance
 
-![Image](https://dataflip.co/cdn/shop/files/PowerBIDashboardTemplatesforFoodDeliveryServices_400x.jpg?v=1761398698)
-
-![Image](https://a.storyblok.com/f/66216/895x480/b7dee7b189/1.jpg/m/1440x0)
-
-![Image](https://www.inetsoft.com/images/website/online-food-delivery.PNG)
-
-![Image](https://repository-images.githubusercontent.com/591022881/cadda031-3c53-41c9-b26e-7451abe62746)
+![Image](images/week_based_performance.png)
 
 Demand pattern analysis:
 
@@ -304,8 +268,6 @@ Possible improvements:
 # Author
 
 **Jaskar Jeyabalan S**
-B.Sc Computer Science Graduate
-Aspiring Data Scientist
 
 Email: [jaskarjeyabalan@gmail.com](mailto:jaskarjeyabalan@gmail.com)
 
