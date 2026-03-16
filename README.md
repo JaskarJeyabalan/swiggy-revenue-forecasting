@@ -4,29 +4,23 @@
 
 End-to-end **Data Analytics and Revenue Forecasting project** analyzing Swiggy food delivery data using **SQL, Power BI, and Python (Facebook Prophet)**.
 
-This project demonstrates how raw food delivery order data can be transformed into **business intelligence dashboards and predictive forecasting models**.
+This project demonstrates how raw food delivery data can be transformed into **business intelligence dashboards and predictive forecasting models**.
 
 ---
 
 # Project Workflow
 
-The project follows a **modern analytics pipeline**:
+The project follows a modern **analytics pipeline**:
 
-```
 Raw Data
-   │
-   ▼
+↓
 SQL Data Cleaning & Modeling
-   │
-   ▼
+↓
 Power BI Business Intelligence Dashboard
-   │
-   ▼
+↓
 Python Time Series Forecasting
-   │
-   ▼
+↓
 Revenue Predictions & Business Insights
-```
 
 ---
 
@@ -43,23 +37,34 @@ The dataset contains food delivery order data including:
 * Order Price
 * Customer Rating
 
-The dataset was cleaned and structured using SQL before analytics and forecasting.
+⚠️ Due to GitHub file size limits, the dataset is hosted externally.
+
+Download dataset here:
+
+Dataset Download
+https://drive.google.com/drive/folders/1BDziEOhigVYpBFDCtlZwkU5gMn-P99e_
+
+After downloading place files inside:
+
+data/raw/
+data/processed/
+data/analytics/
 
 ---
 
 # 1️⃣ SQL Data Preparation
 
-The first stage of the project focused on **data engineering and transformation** using SQL.
+The first stage of the project focuses on **data engineering using SQL**.
 
 The SQL pipeline performs:
 
-• table cleanup
-• data cleaning
-• dimension table creation
-• fact table construction
-• KPI analysis views
+* table cleanup
+* data cleaning
+* dimension table creation
+* fact table construction
+* KPI analytics views
 
-SQL files used in the project:
+SQL scripts used:
 
 ```
 00_drop_tables.sql
@@ -70,19 +75,17 @@ SQL files used in the project:
 05_analytics_view.sql
 ```
 
-These scripts transform the raw dataset into a **structured analytics dataset** suitable for BI dashboards and machine learning models.
+These scripts transform raw data into a **structured analytics dataset**.
 
 ---
 
 # 2️⃣ Power BI Business Intelligence Dashboard
 
-After preparing the dataset, Power BI was used to create **interactive dashboards for business analysis**.
-
----
+Power BI dashboards provide interactive insights into revenue performance.
 
 ## Business Overview
 
-![Image](images/business_overview.png)
+![Business Overview](images/business_overview.png)
 
 Key KPIs:
 
@@ -97,22 +100,22 @@ Key KPIs:
 
 ## Food & Cuisine Insights
 
-![Image](images/food_cuisine_insights.png)
+![Food Cuisine Insights](images/food_cuisine_insights.png)
 
-Insights analyzed:
+Insights include:
 
 * Veg vs Non-Veg demand
 * Cuisine popularity
 * Category performance
-* Dish-level revenue trends
+* Dish level revenue
 
 ---
 
 ## Geographic Performance
 
-![Image](images/geographic_performance.png)
+![Geographic Performance](images/geographic_performance.png)
 
-Geographic analysis includes:
+Analysis includes:
 
 * Revenue by State
 * Orders by State
@@ -122,58 +125,50 @@ Geographic analysis includes:
 
 ## Pricing & Spending Analysis
 
-![Image](images/pricing_spending_analysis.png)
+![Pricing Spending](images/pricing_spending_analysis.png)
 
-Customer spending behavior analyzed by:
+Customer spending patterns analyzed by:
 
 * price category
-* spending bucket
+* spending buckets
 * restaurant pricing tiers
 
 ---
 
 ## Restaurant Performance
 
-![Image](images/restaurant_performance.png)
+![Restaurant Performance](images/restaurant_performance.png)
 
-Key insights include:
+Insights include:
 
 * top restaurants by revenue
-* top restaurants by orders
-* restaurant ranking
+* restaurant rankings
+* order performance
 * rating comparison
 
 ---
 
 ## Week-Based Performance
 
-![Image](images/week_based_performance.png)
+![Week Based Performance](images/week_based_performance.png)
 
-Demand pattern analysis:
+Demand analysis:
 
 * weekday vs weekend revenue
 * category demand by day
-* spending patterns by day type
+* spending patterns
 
 ---
 
 # 3️⃣ Python Revenue Forecasting
 
-After analyzing historical data through dashboards, the next step was **predicting future revenue using machine learning**.
+After analyzing historical data, Python was used to **predict future revenue trends**.
 
-The forecasting model uses **Facebook Prophet**, a time-series forecasting library designed to capture:
+The forecasting model uses **Facebook Prophet**, designed to capture:
 
-* trend patterns
+* long-term trends
 * seasonal effects
 * demand fluctuations
-
-The forecasting pipeline includes:
-
-• data preprocessing
-• time series aggregation
-• feature engineering (weekend indicator)
-• Prophet model training
-• cross-validation evaluation
 
 Forecasts generated:
 
@@ -194,7 +189,7 @@ State Revenue Forecast
 
 # Model Evaluation
 
-Model accuracy was evaluated using **time-series cross-validation**.
+Model accuracy was evaluated using **time-series cross validation**.
 
 Metrics used:
 
@@ -202,25 +197,22 @@ Metrics used:
 * RMSE (Root Mean Squared Error)
 * MAPE (Mean Absolute Percentage Error)
 
-These metrics measure the difference between predicted and actual revenue.
-
 ---
 
-# Key Business Insights
+# Forecast Data
 
-Important insights discovered from the analysis:
+Forecast output files are too large for GitHub.
 
-1️⃣ Weekend demand is significantly higher than weekday demand
+Download here:
 
-2️⃣ A few cities contribute a majority of revenue
+Forecast Results
+https://drive.google.com/drive/folders/1K_jo0VqTkQjzxjmaQs61Wl-uvwhe6Pep
 
-3️⃣ Non-vegetarian food categories dominate demand
+Place them in:
 
-4️⃣ Premium price categories generate the highest revenue share
-
-5️⃣ A small number of restaurants contribute disproportionately to total platform revenue
-
-6️⃣ Revenue demand is expected to grow steadily based on forecasting results
+```
+forecasts/
+```
 
 ---
 
@@ -230,9 +222,6 @@ Important insights discovered from the analysis:
 swiggy-revenue-forecasting
 │
 ├── data
-│   ├── raw
-│   ├── processed
-│   └── analytics
 │
 ├── sql
 │
@@ -256,12 +245,12 @@ swiggy-revenue-forecasting
 
 # Future Improvements
 
-Possible improvements:
+Possible future improvements:
 
 * integrate real-time order data
-* deploy forecasting model with Streamlit
-* incorporate holiday / festival demand
-* experiment with deep learning models (LSTM)
+* deploy forecasting model using Streamlit
+* include festival and holiday demand
+* experiment with LSTM / XGBoost forecasting
 
 ---
 
