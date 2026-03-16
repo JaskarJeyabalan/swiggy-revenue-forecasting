@@ -2,6 +2,12 @@
 
 ![Project Cover](images/business_overview.png)
 
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Prophet](https://img.shields.io/badge/Prophet-Time%20Series-green)
+![DataScience](https://img.shields.io/badge/Data%20Science-Forecasting-purple)
+
 End-to-end **Data Analytics and Revenue Forecasting project** analyzing Swiggy food delivery data using **SQL, Power BI, and Python (Facebook Prophet)**.
 
 This project demonstrates how raw food delivery data can be transformed into **business intelligence dashboards and predictive forecasting models**.
@@ -21,6 +27,22 @@ Power BI Business Intelligence Dashboard
 Python Time Series Forecasting
 ↓
 Revenue Predictions & Business Insights
+
+---
+
+## Installation
+
+Clone the repository
+
+git clone https://github.com/JaskarJeyabalan/swiggy-revenue-forecasting.git
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run forecasting script
+
+python src/swiggy_revenue_forecasting.py
 
 ---
 
@@ -47,7 +69,9 @@ https://drive.google.com/drive/folders/1BDziEOhigVYpBFDCtlZwkU5gMn-P99e_
 After downloading place files inside:
 
 data/raw/
+
 data/processed/
+
 data/analytics/
 
 ---
