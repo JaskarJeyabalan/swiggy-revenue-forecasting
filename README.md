@@ -64,7 +64,7 @@ The dataset contains food delivery order data including:
 Download dataset here:
 
 Dataset Download
-https://drive.google.com/drive/folders/1BDziEOhigVYpBFDCtlZwkU5gMn-P99e_
+![Dataset Drive Link](https://drive.google.com/drive/folders/1BDziEOhigVYpBFDCtlZwkU5gMn-P99e_?usp=sharing)
 
 After downloading place files inside:
 
@@ -230,7 +230,7 @@ Forecast output files are too large for GitHub.
 Download here:
 
 Forecast Results
-https://drive.google.com/drive/folders/1K_jo0VqTkQjzxjmaQs61Wl-uvwhe6Pep
+![Forecast Results Drive Link](https://drive.google.com/drive/folders/1K_jo0VqTkQjzxjmaQs61Wl-uvwhe6Pep?usp=sharing)
 
 Place them in:
 
