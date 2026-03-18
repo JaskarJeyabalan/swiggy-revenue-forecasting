@@ -8,7 +8,7 @@
 ![Prophet](https://img.shields.io/badge/Prophet-Time%20Series-green)
 ![DataScience](https://img.shields.io/badge/Data%20Science-Forecasting-purple)
 
-End-to-end **Data Analytics and Revenue Forecasting project** analyzing Swiggy food delivery data using **SQL, Power BI, and Python (Facebook Prophet)**.
+End-to-End **Data Analytics and Revenue Forecasting project** analyzing Swiggy food delivery data using **SQL, Power BI, and Python (Facebook Prophet)**.
 
 This project demonstrates how raw food delivery data can be transformed into **business intelligence dashboards and predictive forecasting models**.
 
