@@ -34,7 +34,7 @@ Revenue Predictions & Business Insights
 
 Clone the repository
 
-git clone https://github.com/JaskarJeyabalan/swiggy-revenue-forecasting.git
+[click here for git clone link](https://github.com/JaskarJeyabalan/swiggy-revenue-forecasting.git)
 
 Install dependencies
 
