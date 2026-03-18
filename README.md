@@ -34,7 +34,7 @@ Revenue Predictions & Business Insights
 
 Clone the repository
 
-[click here for git clone link](https://github.com/JaskarJeyabalan/swiggy-revenue-forecasting.git)
+[Click here for Git Clone](https://github.com/JaskarJeyabalan/swiggy-revenue-forecasting.git)
 
 Install dependencies
 
@@ -63,8 +63,7 @@ The dataset contains food delivery order data including:
 
 Download dataset here:
 
-Dataset Download
-![Dataset Drive Link](https://drive.google.com/drive/folders/1BDziEOhigVYpBFDCtlZwkU5gMn-P99e_?usp=sharing)
+[Click here for Dataset Download](https://drive.google.com/drive/folders/1BDziEOhigVYpBFDCtlZwkU5gMn-P99e_?usp=sharing)
 
 After downloading place files inside:
 
@@ -229,8 +228,7 @@ Forecast output files are too large for GitHub.
 
 Download here:
 
-Forecast Results
-![Forecast Results Drive Link](https://drive.google.com/drive/folders/1K_jo0VqTkQjzxjmaQs61Wl-uvwhe6Pep?usp=sharing)
+[Click here for Forecast Results](https://drive.google.com/drive/folders/1K_jo0VqTkQjzxjmaQs61Wl-uvwhe6Pep?usp=sharing)
 
 Place them in:
 
