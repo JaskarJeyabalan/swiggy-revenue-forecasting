@@ -1870,7 +1870,7 @@ print("• Encourage restaurants to maintain strong ratings and customer satisfa
 print("• Expand delivery services during weekends when demand increases.")
 print("• Use forecasting insights for inventory and staffing planning.")
 
-"""## Conclusion
+""## Conclusion
 
 This project demonstrates how time-series forecasting can be used to predict food delivery demand and support data-driven decision making.
 
